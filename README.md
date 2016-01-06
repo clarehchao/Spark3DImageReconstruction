@@ -16,7 +16,7 @@ Software & System Setup
 ```
 sbt package
 ```
-- Submit the scala application via Spark (see [sparkjob.sh](Spark3DImageReconstruction/spark.sh))
+- Submit the scala application via Spark (see [sparkjob.sh](sparkjob.sh))
 
 Presentation
 --------------------
