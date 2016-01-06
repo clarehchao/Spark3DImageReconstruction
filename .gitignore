@@ -1,0 +1,7 @@
+# duplicate cate files
+*~
+
+# ide directory
+.idea/
+.DS_Store
+data/
