@@ -21,4 +21,4 @@ sbt package
 Presentation
 --------------------
 - This work was presented at [Fully3D Image Reconstruction conference 2015](http://www.fully3d.org/)
-- See [here]() for detailed poster presentation
+- See [here](Fully3D215/SparlMLEMPoster.pdf) for detailed poster presentation
